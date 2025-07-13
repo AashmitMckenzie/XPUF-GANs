@@ -92,10 +92,3 @@ Please fork the repository and submit a pull request.
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## ⭐ Star This Repo
-
-If you find this project helpful or inspiring, please consider ⭐ starring it on GitHub — it helps grow the community!
-
-```
-```
