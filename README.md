@@ -1,6 +1,5 @@
 # XPUF-GANs
 
-````
 # 🔐 XPUF-GANs: eXplainable GAN Architecture for PUF Data Generation
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
@@ -28,9 +27,6 @@ The architecture comprises:
 - Explainability Block: Integrates SHAP/LIME to analyze influence of latent dimensions and CRP patterns.
 - Training Engine: Optimized with Adam + LeakyReLU + BatchNorm for stable GAN convergence.
 
-<p align="center">
-  <img src="assets/xpuf_gan_architecture.png" alt="XPUF-GAN Architecture" width="700"/>
-</p>
 
 ## ⚙️ Getting Started
 
@@ -65,9 +61,6 @@ python evaluate.py
 * Training Curves (Loss, Accuracy)
 * SHAP/LIME Feature Attribution
 
-<p align="center">
-  <img src="assets/generated_vs_real.png" alt="CRP Comparison" width="600"/>
-</p>
 
 ## 📈 Evaluation Metrics
 
